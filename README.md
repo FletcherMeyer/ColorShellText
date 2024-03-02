@@ -15,8 +15,7 @@ const { coloredConsoleLog } = require("utilities/color-shell-text");
 ```
 This will act as a replacement for ```console.log()```. Taking any input and logging it.
 ```coloredConsoleLog("colorGreenHi Mom!");```
-> $${\color{green}Hi Mom!}$$
-
+> <img width="43" alt="image" src="https://github.com/FletcherMeyer/ColorShellText/assets/53588444/c2f13424-f793-488d-a594-a9b459779d92">
 
 ```
 const { convertColors } = require("color-shell-text");
