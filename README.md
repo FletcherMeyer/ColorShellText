@@ -20,3 +20,4 @@ This will act as a replacement for ```console.log()```. Taking any input and log
 ```
 const { convertColors } = require("color-shell-text");
 ```
+Used the same as ```coloredConsoleLog()``` but returns the value as a string instead of logging it.
